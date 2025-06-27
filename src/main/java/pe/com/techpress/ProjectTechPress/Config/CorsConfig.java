@@ -22,5 +22,4 @@ public class CorsConfig {
         source.registerCorsConfiguration("/**", configuration);
         return source;
     }
-    //implementando archivo CorsConfig para la comunicación con el frontend
 }
